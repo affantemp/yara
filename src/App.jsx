@@ -247,7 +247,7 @@ export default function Page() {
   useEffect(() => {
     if (yesPressed && noCount < 4 && !popupShown) {
       Swal.fire({
-        title: "I love you sooo Much!!!❤️, You’ve stolen my heart completely!!! 🥰💖 But itni pyaari ladki aur itni jaldi haan? Thoda aur nakhre karke mujhe tarpaao na! 🥰✨",
+        title: "I love you sooo Much!!!❤️, You’ve stolen my heart completely!!! 🥰💖 But stfu and click no a bunch of times then click yes for your reward or my hard work will be wasted. 🥰✨",
         showClass: {
           popup: `
             animate__animated
